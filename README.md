@@ -1,16 +1,76 @@
-# React + Vite
+# Spencer Hintze - Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive portfolio website showcasing my experience as an AI Product Manager and strategic problem solver.
 
-Currently, two official plugins are available:
+🔗 **Live Site:** [spencer-hintze.netlify.app](https://spencer-hintze.netlify.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📋 About
 
-## React Compiler
+This portfolio highlights my work building AI products at Signals and Qualtrics, my projects, and my journey in product management and software engineering. Built with a clean, minimal dark theme inspired by Apple's design language.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Tech Stack
 
-## Expanding the ESLint configuration
+- **Frontend:** React 18
+- **Build Tool:** Vite
+- **Styling:** Tailwind CSS
+- **Routing:** React Router
+- **Deployment:** Netlify
+- **Development:** Built using Cursor AI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🎯 Features
+
+- **Responsive Design** - Looks great on desktop, tablet, and mobile
+- **Dark Theme** - Clean, professional aesthetic
+- **4 Main Sections:**
+  - Home/About - Personal introduction and interests
+  - Resume - Professional experience and education
+  - Projects - Showcase of key projects including RAG models and AI agents
+  - Contact - Get in touch form
+
+## 📸 Personal Touches
+
+Beyond the professional content, the site includes personal photos showcasing my interests:
+- Family life (expecting baby #2!)
+- BYU pride and game days
+- Golf passion
+- Building and coding
+
+## 🛠️ Local Development
+```bash
+# Clone the repository
+git clone https://github.com/YOUR_USERNAME/personal-portfolio.git
+
+# Navigate to project directory
+cd personal-portfolio
+
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
+
+# Build for production
+npm run build
+```
+
+## 📦 Deployment
+
+This site is continuously deployed on Netlify. Any pushes to the main branch automatically trigger a new deployment.
+
+## 📝 Building This Site
+
+This portfolio was built in approximately 2 hours during a live coding session on LinkedIn, marking my first time using Cursor AI. It demonstrates the power of modern AI-assisted development tools in rapidly prototyping and deploying professional websites.
+
+## 📧 Contact
+
+- **Email:** shintze42@icloud.com
+- **LinkedIn:** [linkedin.com/in/spencer-hintze](https://linkedin.com/in/spencer-hintze)
+- **Website:** [spencer-hintze.netlify.app](https://spencer-hintze.netlify.app)
+
+## 📄 License
+
+MIT License - feel free to use this as a template for your own portfolio!
+
+---
+
+Built using React, Vite, Tailwind CSS, and Cursor AI
